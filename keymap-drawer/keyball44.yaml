@@ -44,7 +44,7 @@ layers:
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-down-bold$$
-  - $$mdi:backspace-reverse-outline$$
+  - $$mdi:arrow-right-bold$$
   NUM:
   - $$mdi:keyboard-esc$$
   - '1'
